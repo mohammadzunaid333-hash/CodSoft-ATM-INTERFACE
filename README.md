@@ -1,4 +1,12 @@
-#CodSoft-ATM INTERFACE
+
+# CodSoft-ATM INTERFACE
+
+![Java](https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=openjdk)
+![CodSoft](https://img.shields.io/badge/CodSoft-Internship-blueviolet?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-Concepts-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-yellowgreen?style=for-the-badge)
+
 
 ## Overview
 
